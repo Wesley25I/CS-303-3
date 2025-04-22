@@ -13,4 +13,3 @@ This project demonstrates the usage of various data structures, including a Queu
 2. Make sure you have a C++ compiler installed (e.g., g++).
 
 Sample Output
-![Queue Output](https://i.imgur.com/XYZ123.png)
